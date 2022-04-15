@@ -3,4 +3,4 @@ Repositório criado para desafio do projeto
 
 ## Links Úteis 
 
-[Sintaxe Markdown] (https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+[Sintaxe básica Markdown](https://www.markdownguide.org/getting-started/)
